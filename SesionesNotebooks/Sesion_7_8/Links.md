@@ -6,5 +6,3 @@
 - [Network In Network](https://arxiv.org/abs/1312.4400)
 - [Dice Loss](https://www.kaggle.com/code/bigironsphere/loss-function-library-keras-pytorch)
 - [tf.keras.layers.UpSampling2D](https://www.tensorflow.org/api_docs/python/tf/keras/layers/UpSampling2D)
-- [U-Net Image Segmentation in Keras](https://pyimagesearch.com/2022/02/21/u-net-image-segmentation-in-keras/)
-- [SAM (Segment Anything Model)](https://huggingface.co/docs/transformers/main/model_doc/sam)
