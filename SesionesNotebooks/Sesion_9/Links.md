@@ -9,3 +9,4 @@
 
 ## NLP
 - [Word2Vec, Embedding projector](https://projector.tensorflow.org/)
+- [Understanding Word2vec Embedding in Practice](https://towardsdatascience.com/understanding-word2vec-embedding-in-practice-3e9b8985953)
